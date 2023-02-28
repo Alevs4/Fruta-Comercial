@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/IdIngresarFolios"
+        android:title="Ingresar Folios" />
+    <item
+        android:id="@+id/idLiberarFolios"
+        android:title="Liberar Folios" />
+    <item
+        android:id="@+id/idConsultarFolio"
+        android:title="Consultar Folio" />
+    <item
+        android:id="@+id/IdAtras"
+        android:title="Atras" />
+</menu>
